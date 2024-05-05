@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.debug.js" integrity="sha384-NaWTHo/8YCBYJ59830LTz/P4aQZK1sS0SneOgAvhsIl3zBu8r9RevNg5lHCHAuQ/" crossorigin="anonymous"></script>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script src="app.js" defer></script>
+
+    <link rel="stylesheet" href="style.css">
+    <title>Forms Interativo</title>
+</head>
+<body>
+    <div class="container">
+        <div class="form-image">
+            <img src="images/undraw_shopping_re_hdd9.svg">
+        </div>
+        <div class="form">
+            <form onsubmit="enviarEmail(event)">
+                <div class="form-header">
+                    <div class="title">
+                        <h1>Cadastre-se</h1>
+                    </div>
+                    <div class="login-button">
+                        <button><a href="#">Entrar</a></button>
+                    </div>
+                </div>
+
+                    <div class="input-group">
+                        <div class="input-box">
+                            <label for="firstname">Primeiro nome</label>
+                            <input id="firstname" type="text" name="firstname" placeholder="Digite seu primeiro nome" required>
+                        </div>
+
+                        <div class="input-box">
+                            <label for="lastname">Sobrenome</label>
+                            <input id="lastname" type="text" name="lastname" placeholder="Digite seu sobrenome" required>
+                        </div>
+
+                        <div class="input-box">
+                            <label for="email">Email</label>
+                            <input id="email" type="email" name="email" placeholder="Digite seu email" required>
+                        </div>
+
+                        <div class="input-box">
+                            <label for="number">Celular</label>
+                            <input id="number" type="number" name="number" placeholder="(xx) xxxx-xxxx" required>
+                        </div>
+
+                        <div class="input-box">
+                            <label for="text">Descrição</label>
+                            <textarea name="text" id="text" cols="" rows="" placeholder="Descreva seu interesse em participar" required></textarea>
+                        </div>
+                    </div>
+                     <div class="submit-button">
+                        <button type="submit">Enviar</button>
+                    </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>
