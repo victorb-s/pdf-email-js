@@ -3,7 +3,7 @@
 <p align="justify">
   - Projeto realizado para resolução de um desafio proposto por um professor do ensino médio, deveríamos criar um site contendo um forms que salva as informações inseridas, cria um pdf com as informações e envia para o responsável pela página, utilizando JavaScript e, se preferisse, alguma biblioteca.
 
-  Como desafio pessoal, tentei realizar a atividade sem utilizar bibliotecas, apenas JavaScript puro, algo que dificultou ainda mais na realização da mesma, porém foi ótimo para trabalhar o uso de um JavaScript mais avançado.
+  Como desafio pessoal, tentei realizar a atividade sem utilizar bibliotecas, apenas JavaScript puro, algo que dificultou ainda mais na realização da mesma, porém foi ótimo para trabalhar o uso de um JavaScript mais avançado. O link para visualização do pdf gerado pode ser visto na aba de inspecionar da página.
 </p>
 
 - Bibliotecas JS (jsPDF e EmailJS);
