@@ -24,10 +24,10 @@
  <img style="border-radius: 50%" src="https://avatars.githubusercontent.com/u/114593367?s=400&u=35dad9c7030300514c27e765de70b83b4073c802&v=4" width="100px;" alt=""/>
 </a>
 
-Feito com ❤️ por Victor Barbosa e colaboradores 👋🏽 Entre em contato!
+Feito com ❤️ por Victor Barbosa 👋🏽 Entre em contato!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-santos-01242007111203200607/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whosvitu_/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vituisdev/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorb.santos15@gmail.com)
 <br>
 <br>
